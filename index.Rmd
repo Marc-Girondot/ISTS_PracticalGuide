@@ -1,0 +1,20 @@
+---
+title: "A practical Guide for marine turtles monitoring data analysis"
+author: "Marc Girondot"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: [book.bib]
+biblio-style: apalike
+#link-citations: yes
+github-repo: "Marc-Girondot/ISTS_PracticalGuide"
+#url: 'http://myrbookfr.netlify.com/'
+description: ""
+---
+
+# Préambule
+
+Ce livre est incomplet pour le moment et vous visualisez sa version préliminaire. Si vous 
+avez des commentaires, des suggestions ou si vous identifiez des erreurs, n'hésitez pas à
+m'envoyer un email (marc.girondot@u-psud.fr). 
+
